@@ -20,3 +20,24 @@
 | Bonuses | Any position | 3 points | for best scoring individual that round |
 | | | 2 points | for second best scoring individual that round |
 | | | 1 point | for third best scoring individual that round |
+
+
+
+### Requirements
+
+#### What info do I need from every match?
+
+- Home team
+- Away team
+- Match date
+- Match time
+- Match score
+- Team lineups
+- Position for each player
+- Timestamp of substitutes
+- Who came in and who got off in substitute
+- Who scored a goal and when
+- Whether the goal was a penalty or not
+- The outcome of the penalty (scored, missed, saved)
+- Whether the goal was an own goal or not
+- Whether the player earned a yellow or red card or not
