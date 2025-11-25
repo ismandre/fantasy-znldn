@@ -41,3 +41,12 @@
 - The outcome of the penalty (scored, missed, saved)
 - Whether the goal was an own goal or not
 - Whether the player earned a yellow or red card or not
+
+
+#### General flow
+
+- Fetch data about every match from the API
+    - calculate the points for each individual player based on the match events
+    - update team squads with the calculated points
+    - refresh the rankings based on the calculated points
+    - fetch data about upcoming matches from the API
